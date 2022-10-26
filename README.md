@@ -1,6 +1,6 @@
 # Explorer Stage 03 | Projeto 03 - Formulário
 
-![preview](images/preview.png)
+![preview](image/preview.png)
 
 > Explorer
 
